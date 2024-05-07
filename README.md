@@ -1,7 +1,7 @@
 # SendingEmailFromPython
 This repository includes the description of how we can send email from python file to recipient and use in automation system or in email authentication system.
 
-##Steps 
+## Steps 
 
 Before you start install necessary packages smtplib,email,random by running these commands
 
