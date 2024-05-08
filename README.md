@@ -1,4 +1,4 @@
-# SendingEmailFromPython
+# Email Verification Using Python
 This repository includes the description of how we can send email from python file to User for automation system or in email authentication system.
 
 ## Steps 
